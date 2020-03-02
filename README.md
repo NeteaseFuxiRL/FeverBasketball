@@ -11,8 +11,6 @@ It was created by the [Netease Leihuo Technology](https://leihuo.163.com/) and t
 
 usefull links:
 *  Our AAMAS20 Paper (Extended Abstract): [Mastering Basketball with Deep Reinforcement Learning: An Integrated Curriculum Training Approach](https://aamas2020.conference.auckland.ac.nz/extended-abstracts/)
-*  Full paper:
-*  Blog:
 *  Demos: https://www.youtube.com/watch?v=l2SLUydyijs&t=97s
 
 # **Quick Start**
