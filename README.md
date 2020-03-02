@@ -1,6 +1,6 @@
 ![image text](materials/image/Fuxi_logo.png)
 
-# **FeverBasketball OpenSource**
+# **FeverBasketball**
 
 This repository contains an RL environment based on a commercial online basketball game named [Fever Basketball](https://chao.163.com/).
 It was created by the [Netease Leihuo Technology](https://leihuo.163.com/) and the [Netease FuXi AI lab](https://fuxi.163.com/) for research purposes.
@@ -13,6 +13,7 @@ usefull links:
 *  Our AAMAS20 Paper (Extended Abstract): [Mastering Basketball with Deep Reinforcement Learning: An Integrated Curriculum Training Approach](https://aamas2020.conference.auckland.ac.nz/extended-abstracts/)
 *  Full paper:
 *  Blog:
+*  Demos: https://www.youtube.com/watch?v=l2SLUydyijs&t=97s
 
 # **Quick Start**
 
