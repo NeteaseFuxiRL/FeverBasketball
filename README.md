@@ -18,7 +18,7 @@ usefull links:
 # **Quick Start**
 
 Clone the project to your computer:  
-`$ git clone ssh://git@gitlab.leihuo.netease.com:32200/jiahangtian/feverbasketball-opensource.git`  
+`$ git clone https://github.com/FuxiRL/FeverBasketball.git`  
 `$ cd feverbasketball-opensource `  
 
 Run socket server to handle requests of basketball players from game clients:  
